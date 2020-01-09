@@ -25,9 +25,10 @@ permalink: pretty
 social:
   - title: instagram
     url: https://www.instagram.com/maypaul1/?hl=ko
+  - title: facebook
+    url: https://www.facebook.com/profile.php?id=100003462615271
   - title: github
     url: https://github.com/myeong-jun
-  - title: linkedin
-    url: 
+  
 
 theme: jekyll-theme-cayman
